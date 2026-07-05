@@ -1,0 +1,16 @@
+Section 3 Face Detection and Recognition Results
+==================================================
+
+FACE DETECTION
+--------------------------------------------------
+Number of faces found = 19
+Detection image saved
+
+FACE RECOGNITION
+--------------------------------------------------
+Number of faces detected: 1
+Label = Elton John with a confidence of 67.0085680686467
+Recognition image saved
+
+==================================================
+Processing complete
